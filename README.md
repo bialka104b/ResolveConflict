@@ -1,3 +1,3 @@
 # ResolveConflict
 
-Projekt powstaw w celach naukowych - korepetycje
+Projekt powstał w celach naukowych - korepetycje
